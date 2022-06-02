@@ -1,3 +1,6 @@
 [submodule "themes/zdoc"]
 	path = themes/zdoc
 	url = https://github.com/zzossig/hugo-theme-zdoc.git
+[submodule "content/en/documentation2"]
+	path = content/en/documentation2
+	url = https://github.com/clusternet/clusternet
